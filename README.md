@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Ehsan Esmaily 👋
 
-<!--
-**EhsanEsmaily747/EhsanEsmaily747** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Full-Stack Developer** with strong experience in building modern web applications. I love working across the stack, from beautiful user interfaces to robust backend systems.
 
-Here are some ideas to get you started:
+## 🚀 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Front-end:** React, Vue, SolidJS
+- **Meta Frameworks:** SolidStart, Nuxt.js
+- **Back-end:** Node.js, Express, RESTful APIs
+- **Database:** MongoDB
+- **Styling:** TailwindCSS
+
+## 🛠️ What I Do
+
+- Build responsive and dynamic web apps
+- Design and implement RESTful APIs
+- Integrate modern front-end frameworks with efficient backends
+- Use TailwindCSS for fast and consistent styling
+- Work with MongoDB for scalable data storage
+
+## 📫 How to reach me
+
+- [GitHub](https://github.com/EhsanEsmaily747)
+- [LinkedIn](#) <!-- Add your LinkedIn URL if you want -->
+- [Email](mailto:your-email@example.com) <!-- Add your email if you want -->
+
+---
+
+> *Always curious, always improving. Let's build something amazing!*
