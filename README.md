@@ -21,8 +21,7 @@ I'm a passionate **Full-Stack Developer** with strong experience in building mod
 ## 📫 How to reach me
 
 - [GitHub](https://github.com/EhsanEsmaily747)
-- [LinkedIn](#) <!-- Add your LinkedIn URL if you want -->
-- [Email](mailto:your-email@example.com) <!-- Add your email if you want -->
+- [Email](ehsanesmaily747@gmail.com) <!-- Add your email if you want -->
 
 ---
 
